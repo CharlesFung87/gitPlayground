@@ -6,10 +6,9 @@
 package glen.castle;
 
 /**
- * Sample Java class
+ * A sample class for feature 1 branch
  * @author charles
  */
-public class JClassOne {
-    // value for feature 1
-    final static int FEATURE1 = 100;
+public class JClassTwo {
+    
 }
