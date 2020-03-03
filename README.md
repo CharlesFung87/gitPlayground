@@ -7,3 +7,5 @@ Added Java class and test class.
 Added feature1 and feature2.
 
 Added feature3.
+
+Added feature 4.

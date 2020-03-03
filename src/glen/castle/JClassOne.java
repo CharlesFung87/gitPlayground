@@ -18,4 +18,6 @@ public class JClassOne {
     final static int FEATURE2 = 200;
     // constant for feature 3
     final static int FEATURE3 = 300;
+    // constant for feature 4
+    final static int FEATURE4 = 400;
 }
